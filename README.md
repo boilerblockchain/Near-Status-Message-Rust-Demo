@@ -1,13 +1,9 @@
 Status Message
 ==============
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/near-examples/rust-status-message)
-
-<!-- MAGIC COMMENT: DO NOT DELETE! Everything above this line is hidden on NEAR Examples page -->
-
 This smart contract saves and records the status messages of NEAR accounts that call it.
 
-Windows users: please visit the [Windows-specific README file](README-Windows.md).
+Requires near-cli, Rust, Node.js, yarn, Near Testnet Account
 
 ## Prerequisites
 Ensure `near-cli` is installed by running:
