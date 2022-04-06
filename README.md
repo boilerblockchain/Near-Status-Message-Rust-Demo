@@ -3,7 +3,7 @@ Status Message
 
 This smart contract saves and records the status messages of NEAR accounts that call it.
 
-Requires near-cli, Rust, Node.js, yarn, Near Testnet Account
+Requires near-cli, Rust, Node.js, yarn, Near Testnet Account. Steps for installing below:
 
 ## Prerequisites
 Ensure `near-cli` is installed by running:
